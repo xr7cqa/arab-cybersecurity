@@ -512,3 +512,9 @@ Cybersecurity Arabic, Arab Cybersecurity, Ethical Hacking Arabic, Bug Bounty Ara
 ## Tags
 
 #Cybersecurity #BugBounty #EthicalHacking #OWASP #PenTest #CloudSecurity #AISecurity #InfoSec #ArabicTech #الأمن_السيبراني #اختراق_أخلاقي #صيد_الثغرات #أمن_المعلومات
+---
+## 🌐 الموقع الرئيسي
+
+الدليل الكامل للقنوات التقنية العربية:
+
+https://xr7cqa.github.io
