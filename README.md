@@ -518,3 +518,10 @@ Cybersecurity Arabic, Arab Cybersecurity, Ethical Hacking Arabic, Bug Bounty Ara
 الدليل الكامل للقنوات التقنية العربية:
 
 https://xr7cqa.github.io
+---
+
+## 🌐 الصفحة التعريفية
+
+صفحة تعريفية مفصلة عن قناة الأمن السيبراني العربي:
+
+https://xr7cqa.github.io/arab-cybersecurity.html
